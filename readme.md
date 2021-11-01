@@ -2,4 +2,4 @@
 
 这是一个可以拖动的QScrollView。
 
-![](.\demo.gif)
+![](https://github.com/TomPan-1901/DragableScrollViewDemo/blob/master/demo.gif)
